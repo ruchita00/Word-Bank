@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACE,QADM,CACN,gBAAgB,CAAC;EACf,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,gBAAgB;CACzB;;AAJH,ACCE,QDDM,CCCL,gBAAK,CAAC;EACL,OAAO,EAAE,QAAQ;EACjB,SAAS,EAAE,KAAK;CACjB",
+    "sources": [
+        "Welcome.scss",
+        "Welcome/List.scss"
+    ],
+    "names": [],
+    "file": "Welcome.css"
+}
